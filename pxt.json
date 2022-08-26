@@ -11,6 +11,11 @@
         "main.blocks",
         "main.ts",
         "README.md",
+         "gatorparticle.cpp",
+        "MAX30105.cpp",
+        "MAX30105.h",
+        "shims.d.ts",
+        "enums.d.ts",
         "micro:bit  extension.json"
     ],
     "testFiles": [
