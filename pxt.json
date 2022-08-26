@@ -11,12 +11,12 @@
         "main.blocks",
         "main.ts",
         "README.md",
-         "gatorparticle.cpp",
+        "micro:bit  extension.json",
+        "gatorparticle.cpp",
         "MAX30105.cpp",
         "MAX30105.h",
         "shims.d.ts",
-        "enums.d.ts",
-        "micro:bit  extension.json"
+        "enums.d.ts"
     ],
     "testFiles": [
         "test.ts"
@@ -28,5 +28,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
